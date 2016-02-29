@@ -25,10 +25,10 @@ You need the HumHub Custom Pages Module to get the Game Section working and you 
 
 -Create the following pages in the order I use here. 
 
--Use the "Custom Pages module" of HumHub to create these pages and take the "iFrame" fuction for it.
+-Use the **Custom Pages module** of HumHub to create these pages and take the **iFrame** fuction for it. Only with the **Play Games** page you have to use the **html** type.
 
 -Where it comes to, which navigation type to use, use this one: **Without adding to navigation (Direct link)**
-only with the "Play Games" page you have to use: **Top Navigation**
+only with the **Play Games** page you have to use: **Top Navigation**
 
 
 ###1.Page:
