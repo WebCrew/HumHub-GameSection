@@ -19,9 +19,16 @@ You need the HumHub Custom Pages Module to get the Game Section working and you 
 
 ## Tutorial
 
+-upload the css, images, js folders of the repo via FTP into a new generated folder called "games" within your default HumHub (root) folder. You dont have to upload the index.html. It should look like this:
+
+![folders](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "folder structure")
+
 -Create the following pages in the order I use here. 
+
 -Use the "Custom Pages module" of HumHub to create these pages and take the "iFrame" fuction for it.
--Where it comes to, which navigation type to use, use this one: Without adding to navigation (Direct link)
+
+-Where it comes to, which navigation type to use, use this one: **Without adding to navigation (Direct link)**
+only with the "Play Games" page you have to use: **Top Navigation**
 
 
 ###1.Page:
