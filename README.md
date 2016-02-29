@@ -19,7 +19,7 @@ You need the HumHub Custom Pages Module to get the Game Section working and you 
 
 ## Tutorial
 
--upload the css, images, js folders of the repo via FTP into a new generated folder called "games" within your default HumHub (root) folder. You dont have to upload the index.html. It should look like this:
+-upload the **css, images, js** folders of the repo via FTP into a new generated folder called **games** within your default HumHub folder. You dont have to upload the index.html. It should look like this:
 
 ![folders](https://github.com/WebCrew/HumHub-GameSection/blob/master/hh-games.jpg?raw=true "folder structure")
 
