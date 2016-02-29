@@ -34,7 +34,9 @@ only with the **Play Games** page you have to use: **Top Navigation**
 ###1.Page:
 
 **Name it:** Nimian Legends
+
 **iFrame link URL:** http://nimianlegends.com/empires/index.htm
+
 now save the new page and lets do the next.
 
 
