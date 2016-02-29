@@ -78,9 +78,9 @@ now save the new page and lets do the next.
 
 ###6.Page:
 
-**Name it:**Arcane Legends
+**Name it:**Under Control
 
-**iFrame link URL:** http://account.spacetimestudios.com/arcanelegends/
+**iFrame link URL:** http://undercontrolgame.com/promo/8/de?sm_type=ads&sm_st1=de_gamespipe&sm_st2=618_&click_id=311633322
 
 now save the new page and lets do the next.
 
