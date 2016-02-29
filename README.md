@@ -127,13 +127,17 @@ now save the new page and lets do the next.
 now save the new page and lets do the next.
 
 
-###11.Page (the last we need):
+###11.Page (last we need):
 
 **Name it:** Clash of Avatars
 
 **iFrame link URL:** https://coa.amzgame.com/
 
-now save and visit Your brand new Game Section :)
+now save
+
+###Last step:
+
+Control the URLs of CustomPages you made per game. Within your **Play Games** page code, the href="" atributes should point to the correct link/url of the generated custom pages page.  
 
 
 ***
