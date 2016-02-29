@@ -137,7 +137,9 @@ now save
 
 ###Last step:
 
-Control the URLs of CustomPages you made per game. Within your **Play Games** page code, the href="" atributes should point to the correct link/url of the generated custom pages page.  
+Control the URLs of CustomPages you made per game. Within your **Play Games** page code, the href="" atributes should point to the correct link/url of the generated custom pages page.  I know it sounds a bit complicated and you are right, its something goofy to explain. 
+
+If you have questions, or are stuck, then contact me at the HumHub community "Andreas Holzer" and I try to help you.
 
 
 ***
