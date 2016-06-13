@@ -2,10 +2,7 @@
 
 This repo is not a HumHub Module! It is a tutorial with the needed files to integrate a game section or a simple portfolio into your HumHub installation.
 
-**Want see a demo?** 
-Visit [Palareas.de]  (http://palareas.de/palnet/custom_pages/view?id=11)
 
-To see the demo, You have to create a account first, but as you know, its a easy task with HumHub.
 
 ***
 
