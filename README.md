@@ -16,15 +16,15 @@ You need the HumHub Custom Pages Module to get the Game Section working and you 
 
 ## Tutorial
 
--download all files from the repository. 
+- download all files from the repository. 
 
--now unzip the folder and rename the whole folder to **games**
+- now unzip the folder and rename the whole folder to **games**
 
 - now upload the **games** folder to http://yourdomain.com/games (in the website root folder, where Your HumHub is)
 
--Use the **Custom Pages module** of HumHub and create a new **iframe** page
+- Use the **Custom Pages module** of HumHub and create a new **iframe** page
 
--point the iframe url to http://yourdomain.com/games/index.html
+- point the iframe url to http://yourdomain.com/games/index.html
 
 - fill in all the other needed data to complete the setup of the custom page
 
