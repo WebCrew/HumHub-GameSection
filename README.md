@@ -2,6 +2,14 @@
 
 This repo is not a HumHub Module! It is a tutorial with the needed files to integrate a game section or a simple portfolio into your HumHub installation.
 
+***
+
+**NOTE: I will no longer make use of HumHub and I stop updating my modules and themes for HumHub. It is up to you, you are welcome to update the modules and themes in the future.**
+
+***
+
+
+
 <a href="http://todgmbh.de/">
     <img src="https://github.com/WebCrew/HumHub-GameSection/blob/master/games.gif?raw=true" alt="Screenshot"
          title="Game Chooser Script" align="center" />
